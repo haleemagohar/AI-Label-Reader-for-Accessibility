@@ -165,4 +165,8 @@
 # 
 
 # Current requirements baseline: \*\*v0.1.0\*\*
+## Project Documentation
+
+- [Requirements Document](docs/requirements.pdf)
+- [Product Backlog](docs/backlog.md)
 
